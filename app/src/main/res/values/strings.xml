@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kanban board</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_local">Local</string>
+    <string name="title_board">Board</string>
+    <string name="title_activity_board">BoardActivity</string>
+    <string name="tab_board_backlog">Backlog</string>
+    <string name="tab_board_next">Next</string>
+    <string name="tab_board_doing">Doing</string>
+    <string name="tab_board_done">Done</string>
+</resources>
